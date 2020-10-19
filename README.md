@@ -72,8 +72,7 @@ $ cd latihanvcs``
 `$ git commit -m “Latihan VCS”`
 * Perubahan berhasil disimpan.
 
-![20201016_163326 1](https://user-images.githubusercontent.com/66506609/96244442-43339400-0fd0-11eb-8fdb-45032a8ec449.png)
-
+![git commit](https://user-images.githubusercontent.com/72775624/96338195-9bdd5c80-10b6-11eb-8ab8-6cd2f3b67d13.PNG)
 
 ### Membuat repository server
 
